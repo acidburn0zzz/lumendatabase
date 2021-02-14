@@ -19,7 +19,7 @@ gem 'rails_admin'
 # kaminari is locked because we've monkeypatched it to work around
 # slow postgres table counts on large tables.
 gem 'kaminari', '0.14.1'
-gem 'redcarpet', '~>2.3.0'
+gem 'redcarpet', '~>3.5.1'
 gem 'country_select'
 gem 'tire', '~> 0.6.0'
 gem 'select2-rails', '~> 4.0', '>= 4.0.3'
